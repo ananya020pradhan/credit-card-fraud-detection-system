@@ -1,0 +1,17 @@
+Credit Card Fraud Detection Model Report
+==================================================
+
+Accuracy: 0.9234
+Precision: 0.9095
+Recall: 0.9404
+F1 Score: 0.9247
+ROC AUC: 0.9818
+
+              precision    recall  f1-score   support
+
+           0       0.94      0.91      0.92      1880
+           1       0.91      0.94      0.92      1880
+
+    accuracy                           0.92      3760
+   macro avg       0.92      0.92      0.92      3760
+weighted avg       0.92      0.92      0.92      3760
